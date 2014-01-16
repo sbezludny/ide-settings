@@ -1,0 +1,4 @@
+[
+	{ "keys": ["ctrl+shift+s"], "command": "save_all" },
+	{ "keys": ["alt+m"], "command": "markdown_preview", "args": {"target": "browser", "parser":"github"} }
+]

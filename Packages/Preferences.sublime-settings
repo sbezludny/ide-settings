@@ -1,0 +1,28 @@
+{
+	"color_scheme": "Packages/Theme - Spacegray/base16-eighties.dark.tmTheme",
+	"default_encoding": "UTF-8 with BOM",
+	"fallback_encoding": "Cyrillic (Windows 1251)",
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"bin",
+		"obj",
+		"packages",
+		"libs"
+	],
+	"font_face": "Consolas",
+	"font_size": 12.0,
+	"ignored_packages":
+	[
+		"Vintage",
+		"LastEdit",
+		"EsFormatter",
+		"IndentGuides",
+		"AAAPackageDev",
+		"Markdown Preview"
+	],
+	"tab_size": 2
+}
