@@ -1,8 +1,11 @@
-﻿Sublime text 2 settings
------------------------
+﻿IDE-settings
+============
+
+## Sublime Text 2 ##
 
 
-###Packages
+
+### Packages ###
 
 - Alignment
 - Backbone.js
